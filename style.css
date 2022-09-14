@@ -1,0 +1,22 @@
+h3{
+    color: rgb(20, 37, 220);
+    border:solid;
+    border-color: brown;
+    padding: 10px;
+}
+h1{
+    background-color: aqua;
+}
+#c4{
+    color: dimgray ;
+}
+body{
+   border: solid;
+  background-color: antiquewhite;
+}
+.c5{
+    color:darkviolet;
+}
+h4{
+    color: green;
+}
